@@ -12,14 +12,14 @@ This platform facilitates food donations by enabling:
 - **Volunteers** to view and pick up pending food donations.
 - **NGOs** to monitor and manage donation activities.
 
-Built with [Streamlit](https://dastarkhwanplanner-sj.streamlit.app/), it provides a simple and elegant UI for real-time collaboration.
+Built with [Streamlit](https://dastarkhwanplanner-sj.streamlit.app/), it provides a simple and elegant UI for real-time collaboration.The app is designed using Python OOP principles, organizing the core functionality — users, donations, and payments — into clear and maintainable classes.
 
 ---
 
 ## 🧰 Tech Stack
 
 - **Frontend/UI**: Streamlit
-- **Backend**: Python
+- **Backend**: Python(with OOP design)
 - **Database**: JSON-based local storage
 - **Authentication**: Role-based user system
 - **Payment**: Simulated monetary donations
