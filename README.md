@@ -12,7 +12,7 @@ This platform facilitates food donations by enabling:
 - **Volunteers** to view and pick up pending food donations.
 - **NGOs** to monitor and manage donation activities.
 
-Built with [Streamlit](https://streamlit.io/), it provides a simple and elegant UI for real-time collaboration.
+Built with [Streamlit](https://dastarkhwanplanner-sj.streamlit.app/), it provides a simple and elegant UI for real-time collaboration.
 
 ---
 
@@ -102,7 +102,7 @@ Built with [Streamlit](https://streamlit.io/), it provides a simple and elegant 
 
 1. **Clone the repo**:
 ```bash
-git clone https://github.com/yourusername/DastarkhwanPlanner.git
+git clone https://github.com/Saba988/Dastarkhwan_Planner.git
 cd DastarkhwanPlanner
 ```
 
