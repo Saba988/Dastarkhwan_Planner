@@ -1,0 +1,38 @@
+{
+    "users": [
+        {
+            "username": "abc123@gmail.com",
+            "role": "Donor"
+        },
+        {
+            "username": "abc@gmail.com",
+            "role": "Donor"
+        },
+        {
+            "username": "volunteer123@gmail.com",
+            "role": "Volunteer"
+        },
+        {
+            "username": "ngo123@gmail.com",
+            "role": "NGO"
+        }
+    ],
+    "donations": [
+        {
+            "donor": "abc123@gmail.com",
+            "food_items": "rice ",
+            "quantity": 1,
+            "expiry_time": "01:00:00",
+            "location": "karachi",
+            "status": "Pending"
+        },
+        {
+            "donor": "abc@gmail.com",
+            "food_items": "Rice ,Mutton soup ,Chicken curry ",
+            "quantity": 3,
+            "expiry_time": "23:45:00",
+            "location": "karachi",
+            "status": "Pending"
+        }
+    ]
+}
